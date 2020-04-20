@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="quran_files_plugin" version="1.0.0">
+
+        
+<asset src="audio_files/001.mp3" target="audio_files/001.mp3" />
+<asset src="audio_files/110.mp3" target="audio_files/110.mp3" />
+<asset src="audio_files/111.mp3" target="audio_files/111.mp3" />
+<asset src="audio_files/112.mp3" target="audio_files/112.mp3" />
+<asset src="audio_files/113.mp3" target="audio_files/113.mp3" />
+<asset src="audio_files/114.mp3" target="audio_files/114.mp3" />
+
+
+</plugin>
